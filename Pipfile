@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+alpha-vantage = "==2.3.1"
+beautifulsoup4 = "==4.11.2"
+matplotlib = "==3.4.3"
+numpy = "==1.25.2"
+pandas = "==1.5.3"
+requests = "==2.31.0"
+seaborn = "==0.11.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
